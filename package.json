@@ -1,0 +1,15 @@
+{
+  "name": "jquery-pjax",
+  "version": "1.8.2",
+  "main": "jquery.pjax.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shazam43/jquery-pjax"
+  },
+  "keywords": [
+    "jquery",
+    "pjax",
+    "js"
+  ],
+  "homepage": "https://github.com/defunkt/jquery-pjax",
+}
